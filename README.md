@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Nodejs and Blockchain**
+- 🌱 I’m currently learning **AI and Cloud Computing**
 
 - 📫 How to reach me **khanmoin9570@gmail.com**
 
