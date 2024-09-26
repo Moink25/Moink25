@@ -50,6 +50,15 @@
 
 ---
 
+## 💻 Technical Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,cpp,javascript,html,css,react,nodejs,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,azure,mysql,mongodb,bootstrap,tailwind,arduino" alt="Tools and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,numpy,pandas,figma,canva" alt="AI and Miscellaneous" />
+</p>
+
+---
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moink25&theme=gotham&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
