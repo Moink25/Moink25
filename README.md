@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,go,cpp,javascript,html,css,react,nodejs,php" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,azure,mysql,mongodb,bootstrap,tailwind,arduino" alt="Tools and Frameworks" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,numpy,pandas,figma,canva" alt="AI and Miscellaneous" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,figma,canva" alt="AI and Miscellaneous" />
 </p>
 
 ---
