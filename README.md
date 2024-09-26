@@ -17,31 +17,35 @@
 
 ---
 
-## 🚧 Work:
-
-- ⚡ **AI Projects**: Working on machine learning and deep learning projects to gain hands-on experience in the field.
-- 💻 **Web Development**: Building responsive, dynamic websites using technologies like React, Tailwind CSS, and more.
-- 🔍 **Cricket Ball Tracking Project**: A current Python-based project analyzing cricket ball trajectories.
-- 📊 **Log Analyzer**: Developed a tool for advanced log analysis using Lex language.
+## 🛠️ Work:
+- **AI & Machine Learning**: Working on projects involving machine learning and deep learning to enhance my AI skills.
+- **Web Development**: Building websites using modern tools like React, Tailwind CSS, and Node.js, and looking for opportunities to contribute to open-source web development projects.
+- **DevOps**: Exploring DevOps practices and tools like Docker, Kubernetes, and GitHub Actions for automation and continuous integration.
 
 ---
 
 ## 🎯 Goals:
+- **AI Mastery**: Dive deeper into AI and Machine Learning to contribute to impactful projects.
+- **DSA Proficiency**: Master data structures and algorithms to crack coding interviews and improve my problem-solving abilities.
+- **DevOps Expertise**: Gain hands-on experience with DevOps tools to integrate CI/CD pipelines in my projects and automate workflows.
+- **Collaboration**: Collaborate with like-minded developers on AI and web development projects.
 
-- 🏆 **Contribute to Open Source**: I aim to actively contribute to open-source projects, enhancing my learning and helping the community.
-- 🤖 **Master AI/ML**: Deepen my understanding of AI/ML algorithms and their practical applications in real-world projects.
-- 🚀 **Expand DevOps Skills**: Continue learning tools and technologies in the DevOps ecosystem, like Docker and Kubernetes.
-- 🌐 **Web Development Mastery**: Refine my full-stack development skills and build more complex, feature-rich web applications.
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2f/b9/7c/2fb97ca589ed6fd8e90ad46254fb0658.gif" alt="Programming Animation" width="300"/>
+</div>
 
 ---
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/moin-khan-a9b54528b/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/moink_25"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/ThinkIt4u"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://leetcode.com/moink25/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://github.com/Moink25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/moin-khan-a9b54528b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/moink_25"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/ThinkIt4u"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://leetcode.com/moink25/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/Moink25"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:moinkhan25@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
