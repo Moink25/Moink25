@@ -90,14 +90,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Moink25&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributions" width="80%" />
 </div>
 
----
-
-## 🔄 Recent Activity:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/Moink25/some-repo/issues/123) in `Moink25/some-repo`
-2. ❗️ Closed issue [#456](https://github.com/Moink25/other-repo/issues/456) in `Moink25/other-repo`
-3. 🎉 Merged PR [#789](https://github.com/Moink25/another-repo/pull/789) in `Moink25/another-repo`
-<!--END_SECTION:activity-->
 
 ---
 
